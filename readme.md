@@ -1,17 +1,3 @@
-
-##  Higher or Lower Game
-
-A frustratingly addictive game of higher or lower using Google searches.
-The data is based on global monthly searches in 2023.
-
-## Rules
-
-- Keeps asking vs questions until you answer incorrectly, then you loose.
-- Guess correctly and acumulate as many points as possible !
-
-## Inspiration
-https://www.higherlowergame.com/
-
 # Higher or Lower Game
 
 ## Overview
@@ -27,7 +13,7 @@ In this game, you will be presented with two random search terms. Your task is t
 
 Here’s an example of what the game looks like in the terminal:
 
-<img src="img/high_low_print.png" alt="Example Terminal Output" style="max-height: 450px;"/>
+<img src="Higher_Lower/img/high_low_print.png" alt="Example Terminal Output" style="max-height: 450px;"/>
 
 ## Features
 
@@ -44,10 +30,6 @@ Here’s an example of what the game looks like in the terminal:
 3. **Score:** Your score increases for each correct guess. The game will show the number of searches for both terms after each round.
 4. **Game Over:** If you guess incorrectly, the game will end and show your final score. You will then be asked if you want to play again.
 
-## Installation
+## Inspiration
+https://www.higherlowergame.com/
 
-1. **Clone or Download the Repository:**
-
-   Clone the repository using Git:
-   ```bash
-   git clone <repository_url>
